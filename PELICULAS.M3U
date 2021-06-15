@@ -3,6 +3,18 @@
 #EXTINF:0 group-title="peliculas" tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2020/07/6d3bf3be24955540eb853cfe75318dc5-819x1024.jpg", Cruella | REGIOFLIX
 http://ipeteve.com/REGIOFLIX100321/Cruella.SrRegio.mp4
 
+#EXTINF:0, El conjuro 3: el diablo me obligó a hacerlo
+https://www975.ff-02.com/token=ZzJGcDdABULxFMBr-eVUBg/1623814829/192.140.0.0/164/b/ad/6ea1518ae7685a3c523858ca8b897adb-480p.mp4
+
+#EXTINF:-1, El ejército de los muertos
+https://www347.ff-01.com/token=uQzS9mmkVx7ivTe-3Zfcnw/1623812133/192.140.0.0/169/e/bb/b2fb9be1eb90570be9afc34e0c0e7bbe-480p.mp4
+
+#EXTINF:-1, Coco
+https://860104633.tapecontent.net/radosgw/O6ZWkroWKrcZBvq/PnWQhR-8W8jKHe2Wnj7OuBIurM-Y3Ksn8NqbHtmHenYqLvJO5H4mbAUyaSsWIA7n8MTTebkH2i1pmZzwD78n6mwp9Lwd9QBK9zEL_u1CgZipj2dfBdq8KXazE5EJrD_5z0D9NDMi-lkZ_T8VRg94XyZhodfWGrEwOlF0O86RejC1CIeCUtXb_A7ArAUCRP8QcSIL97RQkfNTqZNm_zgw1l_ga6vHbf1M9SXojZA5On-LaXF0SqQF0x4m8Uvi_qVDyLPWbjAy9_KVmw-2sBJ1wkp-ZNnqAQ-JHo-DLg/%5B2380307L%5D%5B489076%5D.mp4.mp4?stream=1
+
+#EXTINF:-1, Invasión: El fin de los tiempos
+https://www601.ff-02.com/token=EWS9rMQB2tvE26f9e-Z50Q/1623810980/192.140.0.0/166/9/35/9468a59b381e1b32ee0e6c0794804359-480p.mp4
+
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/03/ruega.jpg?resize=600%2C900&ssl=1", Ruega por nosotros | REGIOFLIX
 http://ipeteve.com/REGIOFLIX100321/Ruega.por.nosotros.SrRegio.mkv
 
@@ -108,8 +120,10 @@ https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | REGIOFLIX  
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
-#EXTM3U
-#EXTINF:-1 ,tengo miedo
+#EXTINF:-1, Godzilla vs Kong
+https://www280.ff-01.com/token=Mf_uj7NwlGpOX8cXxN3kXQ/1623810682/192.140.0.0/160/4/86/49baa73f15e1232b6bd3413d76652864-480p.mp4
+
+#EXTINF:-1, tengo miedo
 http://vod.tuxchannel.tv:80/peliculas/720/tengo%20miedo%20torero%202020.mkv
 #EXTINF:-1 ,sin rastro
 http://vod.tuxchannel.tv:80/peliculas/720/the%20vanished%202020.mkv
