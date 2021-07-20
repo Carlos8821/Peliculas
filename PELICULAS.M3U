@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 group-title="Space Jam: una nueva era" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/6IUSHT5ITFDWPGXTK2WCOTAQCI.jpg", Space Jam | CARLOS.AR
+http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
+
 #EXTINF:0 group-title="peliculas" tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2020/07/6d3bf3be24955540eb853cfe75318dc5-819x1024.jpg", Cruella | REGIOFLIX
 http://ipeteve.com/REGIOFLIX100321/Cruella.SrRegio.mp4
 
